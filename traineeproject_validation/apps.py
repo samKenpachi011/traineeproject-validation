@@ -5,7 +5,7 @@ from dateutil.tz import gettz
 
 
 class AppConfig(DjangoAppConfig):
-    name = 'traineeproject_validations'
+    name = 'traineeproject_validation'
     verbose_name = 'Trainee Project Validations'
 
 
