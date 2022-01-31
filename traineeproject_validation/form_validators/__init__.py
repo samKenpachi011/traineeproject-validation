@@ -1,3 +1,5 @@
+import imp
 from .subject_requisition_form_validator import SubjectRequisitionFormValidator
 from .crf_form_validator import CRFFormValidator
+from .personal_contact_info_form_validator import PersonalContactInformationFormValidator
 
